@@ -1,0 +1,9 @@
+{
+  "name": "example-joi",
+  "scripts": {
+    "test": "node joi.js"
+  },
+  "dependencies": {
+    "joi": "^4.2.0"
+  }
+}
